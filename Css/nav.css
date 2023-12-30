@@ -1,0 +1,8 @@
+navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  height: 20%;
+  margin-left: 10%;
+  border-bottom: 1px solid green;
+}
